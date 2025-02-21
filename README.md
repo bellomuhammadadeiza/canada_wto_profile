@@ -47,13 +47,142 @@ Table 2: Agriculture, Forestry, and Fishing, as Value Added (% of GDP)
 | 2016 | 1.86%                   |
 
 Table 3: Agriculture exports as % of all merchandise trade
-| Year | Trade Type                   | % of All Merchandise Trade |
+| Year | Trade                  | % of All Merchandise Trade |
 |------|------------------------------|----------------------------|
 | 2021 | Agriculture Exports          | 17.2%                      |
 | 2021 | Agriculture Imports          | 9.6%                       |
 
+Table 4: Top 5 Agricultural Commodities Produced (2023)
+| Year | Commodity                | Type       | Production (tonnes)  |
+|------|--------------------------|------------|----------------------|
+| 2023 | Wheat                    | Food       | 31,954,115           |
+| 2023 | Rapeseed/Colza Seed      | Non-Food   | 18,328,233           |
+| 2023 | Maize (Corn)             | Food       | 15,075,930           |
+| 2023 | Raw Milk (Cattle)        | Food       | 9,886,559            |
+| 2023 | Barley (Primarily Food)  | Food       | 8,896,244            |
+
+Table 5: Top 5 Agricultural Exports by Value (2023)
+| Year | Commodity                 | Top 5 Export Destinations         |
+|------|---------------------------|------------------------------------|
+| 2023 | Wheat                     | China, Indonesia, USA, Japan, Algeria  |
+| 2023 | Rapeseed                  | China, Japan, Mexico, USA, UAE        |
+| 2023 | Cake of rapeseed          | USA, China, Malaysia                |
+| 2023 | Soya bean                 | China, Iran, Japan, Algeria, Indonesia  |
+| 2023 | Crude Rapeseed/Canola oil | USA, China, Rep. of Korea, Mexico, Japan |
+
+Table 6: Top 5 Agricultural Imports by Value (2023)
+| Year | Commodity                  | Top 3 Import Partners         |
+|------|----------------------------|-------------------------------|
+| 2023 | Maize/Corn                 | USA, Mexico, Italy            |
+| 2023 | Raw Cane or beet sugar     | Brazil, El Salvador, Guatemala|
+| 2023 | Cake of soya beans         | USA, India, Togo              |
+| 2023 | Food preparation n.e.c     | USA, China, Other Asia, nes   |
+| 2023 | X                          | USA, India, Turkey            |
+
+#### Market Access 
+
+Table 7: Tariff Overview
+| Item                                        | Agriculture (%) | Non-Agriculture (%) |
+|---------------------------------------------|-----------------|---------------------|
+| Simple Average Final Bound Tariff           | 15.6            | 5.1                 |
+| Simple Average MFN Applied Tariffs          | 14.8            | 2.0                 |
+| Difference Between Final Bound and MFN Applied Tariffs | 0.8            | 3.1                 |
+| Number of Agricultural Tariff Lines Over 100% | 4.6             | 0                   |
+| Tariff Quotas (in % of All Tariff Lines)    | 9.5             | N/A                 |
+| List of Agricultural Imports Subject to Tariff-Rate Quotas | wheat, barley, meat and veal, poultry and egg products, dairy products | N/A |
+
+Table 8: Average Applied MFN Tariff by Product
+| Product                    | Average Applied MFN Tariff (%) |
+|----------------------------|-------------------------------|
+| Animal                     | 21.6                          |
+| Dairy                      | 222.8                         |
+| Cereals and preparations   | 11.8                          |
+| Cotton                     | 0.0                           |
 
 
+#### Domestic Support Review
+Domestic support reduction commitment? Yes
+Bound AMS under the Agreement on Agriculture: [$CAD 4,301,000,000/ $USD 3,000,000,000]
+Most recent Domestic Support notification: [2022]
+
+Table 9: Recent Domestic Support Expenditure
+| Year | Current Total AMS           | Total Green Box Support    | Special and Differential Treatment Spending |
+|------|-----------------------------|----------------------------|---------------------------------------------|
+| 2022 | $CAD 1,225,500,000 / $USD 854,745,826 | $CAD 2,455,500,000 / $USD 1,712,424,722 | N/A                                         |
+
+Table 10: Agricultural Commodities Receiving Product-Specific Support (Top 3)
+| Commodity | Product-Specific Support (CAD) | Product-Specific Support (USD) |
+|-----------|---------------------------------|--------------------------------|
+| Milk      | $1,192,300,000                  | $831,099,102                   |
+| Pork      | $173,300,000                    | $120,795,470                   |
+| Beef      | $99,300,000                     | $69,211,986                    |
+
+
+Table 11: Agricultural Commodities Receiving Market Price Support (Top 3)
+| Commodity | Market Price Support (CAD) | Market Price Support (USD) |
+|-----------|-----------------------------|----------------------------|
+| Butter    | $721,000,000                | $502,539,984               |
+| N/A       | N/A                         | N/A                        |
+| N/A       | N/A                         | N/A                        |
+
+
+### Summary of Analysis
+- Market Access and Export Priorities: Canada is a major agricultural producer, with significant exports of commodities such as wheat, rapeseed (canola), maize, and soybeans. In 2023, the top export commodities also include barley and raw milk. The top export destinations for Canadian agricultural products include China, the USA, Japan, Mexico, and various countries in the Middle East and Asia. This indicates a strong focus on these markets, where Canada is likely to seek even greater access. For example, wheat and rapeseed are major exports, with China and Japan being key markets for these products. The data suggests that Canada would continue to push for reduced barriers and favourable trade terms in these regions to boost its exports further.
+- Protection of Domestic Industries: The data shows that Canada has substantial domestic support measures in place, especially for milk, pork, and beef, indicating the sectors where Canada might seek to protect its producers from international competition. The high average applied MFN (Most Favored Nation) tariffs on dairy (222.8%) and relatively high tariffs on animal products (21.6%) suggest a defensive stance to shield these sectors from foreign market pressures. The presence of tariff quotas on imports of wheat, barley, meat, and dairy products further underlines the protective measures aimed at these sensitive sectors.
+- Stakeholders and Sector Interests
+  - Dairy Sector: This sector has the highest tariff protection and substantial product-specific support (notably for milk). Therefore, it is likely to push for maintaining high tariffs and subsidies to protect against cheaper foreign imports and sustain domestic production.
+  - Livestock Sector (Pork and Beef): Given the significant domestic support and protective tariffs, stakeholders in these industries would likely advocate for continued or enhanced protective measures to safeguard against competition and fluctuating global prices.
+  - Cereal Producers (Wheat, Barley): Although Canada seeks to expand market access for these products, domestic producers may still require some forms of support or protection mechanisms to ensure stability in the face of international market volatility.
+
+### Strategic Analysis of the Partial Simulation of WTO Negotiation on Agriculture
+- Following the proposed 20% cut to the Current Bound Aggregate Measure of Support (AMS), Canada’s AMS would reduce from CAD 4.3 billion to CAD 3.44 billion.  
+- This reduction would also entail recalculating the AMS in USD, dropping from USD 3 billion to USD 2.4 billion.  
+- Such cuts necessitate a careful reassessment of the support mechanisms in place, particularly the de minimis provisions, which are set to reduce significantly from 5% to 1% for developed countries.  
+- This reduction impacts commodities like poultry, potatoes, and pork, which, while not among the top five exports, play a crucial role domestically.  
+
+- The reallocation of minor subsidies due to the de minimis reduction means that support traditionally afforded to these smaller-scale sectors would need to be reclassified under the AMS.  
+- Previously, commodities such as wheat, rapeseed, and soybeans which are Canada’s primary agricultural exports were directly supported under the AMS, given their significant market value.  
+- With the de minimis reduction, the Current Total AMS of CAD 1,225.5 million would effectively increase to CAD 1,493.8 million after reallocating CAD 268.3 million from the affected products.  
+- This reallocation results in a new ratio of Current AMS to the Final Bound AMS of 35.61%, up from 28.49%, reflecting tighter margins within the adjusted cap of CAD 3.44 billion.  
+
+- This tightening could reduce the government's support for farmers, affecting production levels and domestic market prices.  
+- Reducing government subsidies, particularly for smaller farms and rural communities, could have significant social and political repercussions.  
+- These groups are vital to the electoral base of current officeholders, and their discontent could translate into political resistance against the new subsidy structures.  
+
+- However, Canada maintains a strong position in the negotiations.  
+- The primary exports, including wheat, rapeseed, and soybeans, are not heavily reliant on de minimis supports and thus remain outside the direct influence of these proposed changes.  
+- Given the ample margin within the new AMS (final bound minus the new current total AMS), Canada might strategically support the U.S. proposal in the negotiations.  
+- However, this support should be conditional on addressing the potential trade imbalance that would result from the 25% tariff on Canada's exports to the USA (as this would affect our major valued exports).  
+- The US should consider the total removal or significant reduction of the 25% unilateral export tariffs introduced by the U.S. on Canadian exports.
+
+### Recent Developments and Their Implications
+Canada's legislative arm of government recently amended Bloc Québécois supply management bill. Read: https://www.cbc.ca/news/politics/supply-management-bill-senate-1.7376654 
+
+#### Possible impact of Bill C-282 on Trade Policy
+
+- Bill C-282, proposed by the Bloc Québécois, seeks to protect Canada’s supply-managed sectors (dairy, poultry, and eggs) by prohibiting future trade concessions that could open these markets to foreign competition.
+- This bill reflects strong defensive interests, particularly in Quebec, where supply management is a critical economic and political issue.
+- The bill’s passage or even its consideration signals that Canada’s trade negotiators may face increased pressure to prioritize the protection of supply-managed sectors over offensive interests, such as expanding market access for other agricultural exports like wheat, canola, and soybeans.
+- 
+#### Senate Amendments and Trade Risks
+- The Senate amended Bill C-282 to mitigate its impact on existing and ongoing trade agreements, reflecting concerns about provoking trade disputes, particularly with the U.S.
+- The U.S. has historically been critical of Canada’s supply management system, and under a potential second Trump administration, the risk of retaliatory tariffs or other measures increases.
+- A trade war with the U.S. could harm Canada’s broader agricultural exports, making it essential to balance domestic political pressures with international trade obligations.
+
+#### WTO AMS Cuts and Domestic Implications
+- A proposed 20% cut to Canada’s final bound Aggregate Measure of Support (AMS) would reduce it from CAD 4.3 billion to CAD 3.44 billion. While Canada can likely withstand this reduction, the accompanying reduction in de minimis support from 5% to 1% could disproportionately affect smaller-scale sectors like poultry and pork, which rely on these subsidies.
+- This could lead to political backlash from rural communities and supply-managed sectors, complicating the government’s ability to implement the proposed cuts.
+- The reallocation of subsidies due to the de minimis reduction may also strain support for other agricultural commodities, potentially impacting production levels and domestic market prices.
+
+### Strategic Recommendations for Trade Negotiations
+- Conditional Support for AMS Cuts: Canada should consider supporting the U.S. proposal for AMS cuts, but only if the U.S. agrees to remove or significantly reduce the 25% unilateral tariffs on Canadian exports, particularly for key commodities like wheat, canola, and soybeans.
+- Balancing Defensive and Offensive Interests: Canada must navigate the competing demands of protecting supply-managed sectors and advancing offensive interests in global markets. This requires a nuanced approach that balances domestic political pressures with the need to maintain strong international trade relationships.
+- Mitigating Political Risks: The government should engage with stakeholders in supply-managed sectors and rural communities to address concerns about subsidy reductions and ensure that any changes to domestic support mechanisms are implemented gradually and with adequate compensation.
+
+### Long-Term Trade Strategy
+- Canada should prioritize diversifying its export markets to reduce reliance on the U.S. and mitigate the risks of trade disputes.
+- Strengthening trade relationships with key markets like China, Japan, and the EU can provide alternative opportunities for agricultural exports.
+- Canada should also advocate for a more transparent and standardized framework for WTO negotiations, ensuring that domestic support policies align with international trade rules while protecting critical sectors.
 
 
 
