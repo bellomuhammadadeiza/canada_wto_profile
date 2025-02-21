@@ -1,6 +1,10 @@
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img src="images/Wto.png" alt="Wto_logo" width="150" />
-  <img src="images/canada.jpg" alt="Canada_logo" width="150" />
+  <p align="left">
+    <img src="images/Wto.png" alt="Wto_logo" width="150" />
+  </p>
+  <p align="right">
+   <img src="images/canada.jpg" alt="Canada_logo" width="150" />
+  </p>
 </div>
     
 # Canada's Strategic Position on WTO Agricultural Trade Negotiation
