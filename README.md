@@ -1,7 +1,5 @@
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <p align="left">
-    <img src="images/Wto.png" alt="Wto_logo" width="150" />
-  </p>
+  <img src="images/Wto.png" alt="Wto_logo" width="150" />
   <p align="right">
    <img src="images/canada.jpg" alt="Canada_logo" width="150" />
   </p>
