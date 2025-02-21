@@ -163,7 +163,7 @@ Canada's legislative arm of government recently amended Bloc Québécois supply 
 - Bill C-282, proposed by the Bloc Québécois, seeks to protect Canada’s supply-managed sectors (dairy, poultry, and eggs) by prohibiting future trade concessions that could open these markets to foreign competition.
 - This bill reflects strong defensive interests, particularly in Quebec, where supply management is a critical economic and political issue.
 - The bill’s passage or even its consideration signals that Canada’s trade negotiators may face increased pressure to prioritize the protection of supply-managed sectors over offensive interests, such as expanding market access for other agricultural exports like wheat, canola, and soybeans.
-- 
+
 #### Senate Amendments and Trade Risks
 - The Senate amended Bill C-282 to mitigate its impact on existing and ongoing trade agreements, reflecting concerns about provoking trade disputes, particularly with the U.S.
 - The U.S. has historically been critical of Canada’s supply management system, and under a potential second Trump administration, the risk of retaliatory tariffs or other measures increases.
