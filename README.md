@@ -155,7 +155,7 @@ Table 11: Agricultural Commodities Receiving Market Price Support (Top 3)
 - However, this support should be conditional on addressing the potential trade imbalance that would result from the 25% tariff on Canada's exports to the USA (as this would affect our major valued exports).  
 - The US should consider the total removal or significant reduction of the 25% unilateral export tariffs introduced by the U.S. on Canadian exports.
 
-### Recent Developments and Their Implications
+### Recent Developments and Implications
 Canada's legislative arm of government recently amended Bloc Québécois supply management bill. Read: https://www.cbc.ca/news/politics/supply-management-bill-senate-1.7376654 
 
 #### Possible impact of Bill C-282 on Trade Policy
