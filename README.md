@@ -184,7 +184,100 @@ Canada's legislative arm of government recently amended Bloc Québécois supply 
 - Strengthening trade relationships with key markets like China, Japan, and the EU can provide alternative opportunities for agricultural exports.
 - Canada should also advocate for a more transparent and standardized framework for WTO negotiations, ensuring that domestic support policies align with international trade rules while protecting critical sectors.
 
-## Data Sourcing
+
+## Data Collection Instructions for the Strategic Trade Profile
+
+#### Population Data
+- Total Population (current, in millions): https://databank.worldbank.org/source/world-development-indicators 
+
+#### Economic Indicators
+- GDP per Capita: https://databank.worldbank.org/source/world-development-indicators  (current and historical for the last 10 years, in current US dollars)
+- Country by Income Status: https://blogs.worldbank.org/opendata/new-world-bank-country-classifications-income-level-2020-2021
+
+#### Agricultural Data
+- Gross Production Value of Agriculture: https://www.fao.org/faostat/en/#data  (all items aggregated for the last available 5 years, in current US dollars)
+- Agriculture, Forestry, and Fishing Value Added (% of GDP): https://databank.worldbank.org/source/world-development-indicators 
+ 
+#### Agricultural Commodities Production and Trade
+- Top 5 Agricultural Commodities Produced (by tonnes/value, last available year): http://www.fao.org/faostat/en/#rankings/commodities_by_country
+- Top 5 Agricultural Commodities Exported (by tonnes/value, last available year): see  http://www.fao.org/faostat/en/#rankings/commodities_by_country
+   #####  Identify Top 5 Export Markets for each commodity:
+  - Look up HS code for each commodity: https://www.tariffnumber.com  (type commodity in search box)
+  - Record the HS code (both 4 and 8 digit numbers)
+  - Retrieve trade data: https://comtrade.un.org/Data/
+    - Section 1: Products type “goods” and frequency “annual”
+    - Section 2: Classification as HS code “as reported”
+    - Section 3: Period “2023 (or 2024 if available)”, Reporter = country; Partners = “All”, Trade flows = “export”'
+    - Section 4: Enter “4 digit HS code” from step 2
+    - Sort trade value in descending order to see top 5 export markets (exclude “world” total, list countries only)
+
+- Top 5 Agricultural Commodities Imported (by tonnes/value, 2018):  http://www.fao.org/faostat/en/#rankings/commodities_by_country
+  - Identify Top 3 Import Partners using the same method as for exports
+
+#### Trade Statistics
+- Agriculture Exports as % of All Merchandise Trade: Retrieve from the country’s WTO member “trade profile”.  (go to member’s page; go to https://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm  then select your country, go the trade statistics section, click on “trade profile” and download as PDF)
+- Agriculture Imports as % of All Merchandise Trade: (follow same step above)
+
+#### WTO-Specific Data
+
+##### Tariff Profile
+- Visit the country’s WTO members page (https://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm) and navigate to the Goods, Services Schedules, and Tariff Data section.
+- Obtain a summary of tariff data by downloading the PDF from the “Source” section and review the “Technical Note” for detailed explanations.
+- Make note of the following:
+  - Simple average final bound tariff for agriculture (Ag)
+  - Simple average most-favoured nation (MFN) applied tariff for agriculture (Ag)
+  - Difference between final bound and MFN applied tariffs (a proxy for tariff flexibility)
+  - Percentage of agricultural tariff lines over 100%
+  - Agricultural products subject to tariff-rate quotas (TRQs)
+     - For confirmation, locate and open the country’s most recent Trade Policy Review:
+        - Go to WTO Trade Policy Reviews by country (https://www.wto.org/english/tratop_e/tpr_e/tp_rep_e.htm#bycountry )
+        - Select the country.
+        - Under documents, select “Secretariat report — a detailed report written independently by the WTO Secretariat.”
+        - Use the text search function in your PDF reader for “tariff rate quota” and/or “TRQ.”
+        - Review the purpose of a Trade Policy Review.
+       
+##### Average Applied MFN Tariffs
+- Categories: Animal, Dairy, Cereals and Preparations, and Cotton
+- Retrieve this data from the tariff profile document downloaded.
+
+##### Domestic Support
+- WTO Commitment to Reduce Trade-Distorting Domestic Support:
+  - Check if the country has a commitment to reduce trade-distorting domestic support (Amber Box/AMS) at WTO Agricultural Boxes (https://www.wto.org/english/tratop_e/agric_e/agboxes_e.htm)
+
+- Domestic Support Spending
+  - Visit the WTO Notification Portal ( https://notifications.wto.org/en )
+    - Select “Notifications by Agreement.”
+    - Select “Agreement on Agriculture.”
+    - Select the tab “AGR Art 18.2-DS:1.”
+    - Scroll the list for the country and download the most recent notification (green checkmark).
+    - Expect to see these tables:
+       - Table DS:1 - Current Total Aggregate Measurement of Support
+       - Supporting Table DS:1 - Measures exempt/Green Box
+       - Table DS:2 - Special and Differential Treatment/Development Programmes (for developing countries)
+       - Supporting Table DS:4 - Calculation of AMS (by commodity)
+       - Supporting Table DS:5 - Product-Specific Aggregate Measurements of Support: Market Price Support
+       - Supporting Table DS:6 - Product-Specific Aggregate Measurements of Support: Non-Exempt Direct Payments
+
+##### Product-Specific Support
+- If AMS is reported, identify the top 3 agricultural commodities that received product-specific support and their amounts (usually listed in Supporting Table DS:4).
+
+##### Market Price Support
+- If market price support is offered, list the top 3 agricultural commodities (typically found in Supporting Table DS:5).
+
+##### Other WTO Relevant Information
+- Group and/or Coalition Bloc Membership
+  - Check if the country is a member of any groups or coalitions in WTO agriculture negotiations on its member profile page: WTO Member Profiles (https://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm )
+  
+##### Agricultural Trade Disputes
+- Verify current or past agricultural trade disputes with other WTO members
+  - Go back to the country’s WTO member page.
+  - Check “Disputes involving [COUNTRY]” under “As Complainant” and “As Respondent.”
+  - Determine if any cases related to agri-food products are still relevant (exclude cases older than 10 years).
+
+## Other References
+Margulis, M. (2025). Global Food and Resource Economics (FRE 531). Faculty of Land and Food Systems, University of British Columbia.
+
+
 
 
 
