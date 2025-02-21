@@ -184,6 +184,9 @@ Canada's legislative arm of government recently amended Bloc Québécois supply 
 - Strengthening trade relationships with key markets like China, Japan, and the EU can provide alternative opportunities for agricultural exports.
 - Canada should also advocate for a more transparent and standardized framework for WTO negotiations, ensuring that domestic support policies align with international trade rules while protecting critical sectors.
 
+## Data Sourcing
+
+
 
 
 
