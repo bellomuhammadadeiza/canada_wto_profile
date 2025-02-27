@@ -9,6 +9,8 @@
 ## Project Overview
 This project simulated a partial WTO agriculture negotiation, allowing participants to apply trade policy concepts in a practical setting. 
 
+###### Completion date (MM/YYYY): 01/2025
+
 ### Case Study 
 - The case study focused on a U.S. proposal to cut agricultural subsidies through reductions in Aggregate Measure of Support (AMS) commitments.
 - The proposal included a 20% cut to final bound AMS for WTO members with existing commitments, phased in over three years.
