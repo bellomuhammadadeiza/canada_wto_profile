@@ -189,7 +189,7 @@ Canada's legislative arm of government recently amended Bloc Québécois supply 
 - Canada should also advocate for a more transparent and standardized framework for WTO negotiations, ensuring that domestic support policies align with international trade rules while protecting critical sectors.
 
 
-## Data Collection Instructions for the Strategic Trade Profile
+## Data Collection Procedure for the Strategic Trade Profile
 
 #### Population Data
 - Total Population (current, in millions): https://databank.worldbank.org/source/world-development-indicators 
